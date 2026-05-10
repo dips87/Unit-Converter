@@ -100,6 +100,7 @@ h4 {
 @media (max-width: 600px) {
   #top-el {
     width: 450px;
+    height: 325px;
   }
 
 .item-el {
