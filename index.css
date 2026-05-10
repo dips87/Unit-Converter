@@ -96,3 +96,15 @@ h4 {
     justify-content: center;
     align-items: center;
 }
+
+@media (max-width: 600px) {
+  #top-el {
+    width: 450px;
+  }
+
+.item-el {
+    width: 400px;
+}
+
+
+}
